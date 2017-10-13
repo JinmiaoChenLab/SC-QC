@@ -1,0 +1,7 @@
+SampleID	group1	group2
+96_1	a	t
+96_2	b	y
+97_1	a	u
+97_2	b	y
+98_1	a	u
+98_2	c	t
