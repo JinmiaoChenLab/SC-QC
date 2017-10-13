@@ -1,0 +1,13 @@
+names	short_names	criteria
+Basic Statistics	Basic stats	(N.A.)
+Per base sequence quality	Per base seq Q	(<10 or med <25/ <5 or med < 20)
+Per tile sequence quality	Per tile seq Q	(tile over all tile >2/ >5)
+Per sequence quality scores	Per seq Q scores	(mean <27/ <20)
+Per base sequence content	Per base seq content	(AT or GT diff >10%/ >20%)
+Per sequence GC content	Per seq GC content	(dev >15%/ 30% reads)
+Per base N content	Per base N content	(>5% or 20%)
+Sequence Length Distribution	Seq Len Distribution	(any diff length/ zero length)
+Sequence Duplication Levels	Seq Dup	(>20%/ >50%)
+Overrepresented sequences	Overrepresented seq	(any seq >0.1%/ >1%)
+Adapter Content	Adapter Content	(any seq >5%/ 10%)
+Kmer Content	Kmer Content	(p-val <0.01/ <10e-5)
